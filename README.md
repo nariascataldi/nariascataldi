@@ -54,7 +54,7 @@
 ------
 # Contacto:
 
-<table align="left">
+<table align="left" border="none">
   <tr>
   <td>
   </td>
