@@ -1,4 +1,13 @@
-### Hi there 👋
+<p > <img align="right" height="200" src="./avatar.png" /> </p>
+
+ # Hola   
+
+
+## Pretendo dar un paso a paso de como construir una App utlizando React, Redux, Node y Sequelize.
+
+# `1`
+
+`1.1-` En `api` crear un archivo llamado: `.env` que tenga la siguiente forma:
 
 <!--
 **nariascataldi/nariascataldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
