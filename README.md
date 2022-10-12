@@ -54,16 +54,12 @@
 ------
 # Contacto:
 
-<table align="left" border="none">
+<table align="left">
   <tr>
-  <td>
-  </td>
   <td>
 <a href="https://www.linkedin.com/in/n%C3%A9stor-arias-cataldi-815b4411a/">
   <img align="left" src="https://i.imgur.com/pSEI8t9.png" alt="linkedIn" height="50" width="50" />
 </a>
-  </td>
-  <td>
   </td>
   <td>
 <a href="mailto:nestorariascataldi@gmail.com">
