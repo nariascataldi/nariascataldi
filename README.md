@@ -6,7 +6,6 @@
 ## `Full Stack Developer`. Graduado en `Henry`. En ella aprendí todo lo relacionado a `PERN stack`, y a trabajar en equipo siguiendo metodologías como `SCRUM`. A lo largo de los años pude desarrollar ciertas capacidades como gran tenacidad en la resolución de los problemas, pensamiento crítico y una necesidad de aprendizaje continuo.
 ------
 # Las Tecnologías:
-<br></br>
 <div align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
