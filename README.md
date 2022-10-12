@@ -1,9 +1,14 @@
  <img align="right" height="200" src="./computadoraSaludo.png" alt="avatar"/>
 
  # Hola, ¿cómo estás? Soy Néstor Arias Cataldi
+## `Full Stack Developer`. Graduado en [`Henry`](https://www.soyhenry.com/). En ella aprendí todo lo relacionado a `PERN stack`, y a trabajar en equipo siguiendo metodologías ágiles como `SCRUM`. 
+## A lo largo de los años pude desarrollar capacidades como gran tenacidad en la resolución de los problemas, pensamiento crítico y una necesidad de aprendizaje continuo; otorgando a Empresas resulados positivos. 
+## Gracias por su atención.
 
+> [PERN](https://es.acervolima.com/que-es-pern-stack/): Esta pila consta de PostgreSQL, Express, React y Node.js. Combinando estas tecnologías, se puede construir una aplicación web de pila completa con operaciones CRUD. 
 
-## `Full Stack Developer`. Graduado en `Henry`. En ella aprendí todo lo relacionado a `PERN stack`, y a trabajar en equipo siguiendo metodologías ágiles como `SCRUM`. A lo largo de los años pude desarrollar ciertas capacidades como gran tenacidad en la resolución de los problemas, pensamiento crítico y una necesidad de aprendizaje continuo; otorgando a Empresas resulados positivos. Gracias por su atención.
+> [SCRUM](https://es.wikipedia.org/wiki/Scrum_(desarrollo_de_software)): Es un marco de trabajo para desarrollo ágil de software que se ha expandido a otras industrias.
+
 ------
 # Tecnologías aprendidas:
 
@@ -45,16 +50,29 @@
   </tr>
 </table>
 
-<br></br>
 
 ------
 # Contacto:
+
+<table align="left">
+  <tr>
+  <td>
+  </td>
+  <td>
 <a href="https://www.linkedin.com/in/n%C3%A9stor-arias-cataldi-815b4411a/">
   <img align="left" src="https://i.imgur.com/pSEI8t9.png" alt="linkedIn" height="50" width="50" />
 </a>
+  </td>
+  <td>
+  </td>
+  <td>
 <a href="mailto:nestorariascataldi@gmail.com">
   <img align= "left" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="e-mail gmail" height="50" />
 </a>
+  </td>
+  </tr>
+</table>
+
 
 
 <!--
