@@ -1,4 +1,4 @@
- <img align="right" height="200" src="./avatar.png" alt="avatar"/>
+ <img align="right" height="200" src="./computadoraSaludo.png" alt="avatar"/>
 
  # Hola, ¿cómo estás? Soy Néstor Arias Cataldi
 
