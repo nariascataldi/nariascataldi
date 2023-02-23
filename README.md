@@ -2,7 +2,7 @@
 
  # Hola, ¿cómo estás? Soy Néstor Arias Cataldi
 ## `Full Stack Developer`. Graduado en [`Henry`](https://www.soyhenry.com/). En ella aprendí todo lo relacionado a `PERN stack`, y a trabajar en equipo siguiendo metodologías ágiles como `SCRUM`. 
-## A lo largo de los años pude desarrollar capacidades como gran tenacidad en la resolución de los problemas, pensamiento crítico y una necesidad de aprendizaje continuo; otorgando a Empresas resulados positivos. 
+## A lo largo de los años pude desarrollar capacidades como gran tenacidad en la resolución de los problemas, pensamiento crítico y una necesidad de aprendizaje continuo; otorgando a Empresas resultados positivos. 
 ## Gracias por su atención.
 
 > [PERN](https://es.acervolima.com/que-es-pern-stack/): Esta pila consta de PostgreSQL, Express, React y Node.js. Combinando estas tecnologías, se puede construir una aplicación web de pila completa con operaciones CRUD. 
