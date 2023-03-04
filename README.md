@@ -1,3 +1,8 @@
+<head>
+  <link rel="stylesheet" type="text/html" href="./styles.html">
+</head>
+
+ <img align="top" height="200" src="./BannerProgramador.gif" alt="Banner con un programador tipiando"/>
  <img align="right" height="200" src="./computadoraSaludo.png" alt="avatar"/>
 
  # Hola, ¿cómo estás? Soy Néstor Arias Cataldi
