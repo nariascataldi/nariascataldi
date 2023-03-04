@@ -1,10 +1,10 @@
-<head>
-  <link rel="stylesheet" type="text/html" href="./styles.html">
-</head>
+
+[Pulsa aquí para ver mi archivo PDF](./CV%202022%20Espa%C3%B1ol.pdf)
 
  <img align="top" height="200" src="./BannerProgramador.gif" alt="Banner con un programador tipiando"/>
  <img align="right" height="200" src="./computadoraSaludo.png" alt="avatar"/>
 
+<!-- ![Fondo azul](./computacion.png) -->
  # Hola, ¿cómo estás? Soy Néstor Arias Cataldi
 ## `Full Stack Developer`. Graduado en [`Henry`](https://www.soyhenry.com/). En ella aprendí todo lo relacionado a `PERN stack`, y a trabajar en equipo siguiendo metodologías ágiles como `SCRUM`. 
 ## A lo largo de los años pude desarrollar capacidades como gran tenacidad en la resolución de los problemas, pensamiento crítico y una necesidad de aprendizaje continuo; otorgando a Empresas resultados positivos. 
